@@ -5,3 +5,5 @@
 *.bin
 *.a
 *.so
+# Ignore Copilot instructions file
+.github/copilot-instructions.md
